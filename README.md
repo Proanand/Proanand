@@ -1,6 +1,6 @@
-HELLO I AM ANAND GAVALE
+HELLO I AM ANAND GAVALE 
 I am Third year Engineering Student at Sandip University Nashik 
-in Btech Cse department.
+
 
 <!---
 Proanand/Proanand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
